@@ -1,2 +1,2 @@
 # BoostCampAsm
-boostcamp 사전 과제 제출입니다.
+boostcamp 사전 과제입니다.
